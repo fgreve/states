@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+drafts
+raw_data
+data
+*.xlsx
+*.xlsm
+*.csv
+*.pptx
+*.json
+
